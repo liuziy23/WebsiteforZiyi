@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "WebsiteforZiyi",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Hello! My name is Ziyi Liu, and I’m a Student based in Toronto. With a passion for Statistics, I’ve dedicated the past four years to exploring and excelling in this area. My journey began at University of Toronto, where I studied Economics and Statistics. The link below is my personal resume, Please take a look at that and hope you like this website!\n\n1 + 1\n\n[1] 2\n\n\nMy CV"
+  }
+]
